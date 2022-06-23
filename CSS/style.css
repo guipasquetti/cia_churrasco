@@ -221,6 +221,7 @@ section h2 {
 /* Section Loja */
 
 .img_loja{
+    border-radius: 10px;
     margin-top: 150px;
     width: 60%;
     display: inline-block;
